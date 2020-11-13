@@ -8,5 +8,6 @@ namespace ViRGO.Net.Cad.Lib
 {
     class DBText
     {
+        /// nháp thử cái coi
     }
 }
