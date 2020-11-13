@@ -1,4 +1,4 @@
-﻿// (C) Copyright 2020 by  
+﻿// (C) Copyright 2020 by  -----------------------------------
 //
 using System;
 using Autodesk.AutoCAD.Runtime;
