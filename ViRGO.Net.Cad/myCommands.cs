@@ -77,6 +77,7 @@ namespace ViRGO.Net.Cad
             // Put your command code here
 
             // Return a value to the AutoCAD Lisp Interpreter
+            //them ghi chu
             return 1;
         }
 
