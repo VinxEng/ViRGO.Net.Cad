@@ -78,6 +78,7 @@ namespace ViRGO.Net.Cad
 
             // Return a value to the AutoCAD Lisp Interpreter
             //them ghi chu
+            // them ghi chú thằng Branch
             return 1;
         }
 
